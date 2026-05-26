@@ -90,7 +90,7 @@ A large-scale financial AI architecture trained **entirely from scratch** — no
 
 ---
 
-### 📈 [FinTorr](https://github.com/Ribhav19/financial-intelligence-platform)
+### 📈 [financial-intelligence-platform](https://github.com/Ribhav19/financial-intelligence-platform)
 > AI-Powered Quantitative Trading & Market Intelligence System
 
 Advanced financial AI ecosystem integrating:
@@ -156,6 +156,7 @@ Advanced financial AI ecosystem integrating:
 ## Certifications
 
 - AI & Machine Learning Specialization (Advanced)
+- UAS Drone Workshop Certification 2025
 - Deep Learning & NLP Specialization — Transformers, Sequence Models
 - Data Science & Analytics Certification
 - Cloud Computing Certification — AWS / GCP / Azure
