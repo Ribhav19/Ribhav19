@@ -67,7 +67,7 @@ Currently finishing a B.E. in Information Technology at **Pune Institute of Comp
 
 ## Featured Projects
 
-### 🧠 [FinSight AI](https://github.com/Ribhav19/financial-intelligence-platform)(Proprietary · Launching soon)
+### 🧠 [FinSight AI](https://github.com/Ribhav19/FinSight-AI)(Proprietary · Launching soon)
 > AI-powered financial intelligence platform for balance sheet and risk analysis
 
 Built an enterprise-grade financial intelligence platform combining FinBERT, LegalBERT, and RAG for balance sheet analysis, risk scoring, legal compliance, and AI-generated strategic reports
