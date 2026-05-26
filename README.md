@@ -13,9 +13,9 @@
 ╚═╝  ╚═╝╚═╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝      ╚══════╝ ╚═════╝ ╚═╝  ╚═══╝╚═╝
 ```
 
-**Machine Learning Engineer · AI Researcher · Financial AI Developer**
+**ML Engineer · AI Researcher · Founder**
 
-*Building AI systems that solve real-world problems at scale*
+*Building proprietary AI ventures in Financial Intelligence and Startup Analytics*
 
 [![Email](https://img.shields.io/badge/ribhavsoni19@gmail.com-000000?style=flat-square&logo=gmail&logoColor=white)](mailto:ribhavsoni19@gmail.com)
 [![GitHub](https://img.shields.io/badge/Ribhav19-000000?style=flat-square&logo=github&logoColor=white)](https://github.com/Ribhav19)
@@ -27,9 +27,41 @@
 
 ## About
 
-Results-driven ML engineer with hands-on experience designing and deploying production-grade AI systems. My focus is at the intersection of **financial intelligence**, **NLP**, and **reinforcement learning** — building systems that go beyond demos and work in the real world.
+ML Engineer and AI Researcher with a **9.8/10 GPA**, **4 international research papers**, and **2 production internships** — currently building proprietary AI ventures at the intersection of Financial Intelligence, LLM systems, and Reinforcement Learning.
 
-Currently finishing a B.E. in Information Technology at **Pune Institute of Computer Technology (PICT)** with a **9.8/10 GPA**. I've shipped ML pipelines in production, published research internationally, and built financial AI platforms that combine transformers, RAG, and quantitative reasoning from the ground up.
+Alongside my engineering career, I'm the **Founder** of multiple stealth AI startups launching soon — FinVision AI, ScaleSmart AI, FinTorr, and a proprietary 6B-parameter foundation model — all built from the ground up with production-grade architecture.
+
+---
+
+## Ventures *(Proprietary · Launching Soon)*
+
+### [FinVision AI](https://github.com/Ribhav19/FinSight-AI) — Founder & Lead AI Engineer
+> Enterprise financial intelligence platform — balance sheet analysis, risk scoring, legal compliance, and AI-generated strategic reports
+
+`FinBERT` `LegalBERT` `RAG` `PyTorch` `FastAPI` `Gradio`
+
+---
+
+### [ScaleSmart AI](https://github.com/Ribhav19/scalesmart-ai) — Founder & Lead AI Engineer
+> Holistic startup risk scoring platform for founders and VCs — financial, legal, sectoral, and investor intelligence with explainable AI decisions
+
+`FinBERT` `LegalBERT` `LSTM` `RL` `SHAP` `LIME` `Cloud-native`
+
+*Research presented at ICRATM 2026*
+
+---
+
+### [FinTorr](https://github.com/Ribhav19/financial-intelligence-platform) — Founder & Lead AI Engineer
+> AI-driven market intelligence platform — fundamental, technical, and sentiment analysis with RL trading logic and paper trading simulation
+
+`PyTorch` `TensorFlow` `RL` `CNN-BiLSTM` `React` `Node.js`
+
+---
+
+### [Cognitive Foundation Model — 6B](https://github.com/Ribhav19/cognitive-foundation-model) — Founder & Lead Researcher
+> 6B-parameter foundation LLM trained entirely from scratch — no pre-trained base, no fine-tuning — using a proprietary cognitive training framework
+
+`PyTorch` `HuggingFace` `Distributed Training` `GPU Inference` `RAG`
 
 ---
 
@@ -50,79 +82,33 @@ Currently finishing a B.E. in Information Technology at **Pune Institute of Comp
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-111827?style=flat-square&logo=apachespark&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=white)
 
 **AI / ML Domains**
 
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-1a1a2e?style=flat-square)
 ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-1a1a2e?style=flat-square)
 ![NLP](https://img.shields.io/badge/NLP-1a1a2e?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-1a1a2e?style=flat-square)
 ![RAG Systems](https://img.shields.io/badge/RAG_Systems-1a1a2e?style=flat-square)
-![LLM Fine-tuning](https://img.shields.io/badge/LLM_Fine--tuning-1a1a2e?style=flat-square)
 ![Financial AI](https://img.shields.io/badge/Financial_AI-1a1a2e?style=flat-square)
-![SHAP / LIME](https://img.shields.io/badge/Explainable_AI-1a1a2e?style=flat-square)
-
----
-
-## Featured Projects
-
-### 🧠 [FinSight AI](https://github.com/Ribhav19/FinSight-AI)(Proprietary · Launching soon)
-> AI-powered financial intelligence platform for balance sheet and risk analysis
-
-Built an enterprise-grade financial intelligence platform combining FinBERT, LegalBERT, and RAG for balance sheet analysis, risk scoring, legal compliance, and AI-generated strategic reports
-Designed multi-layer architecture integrating EBITDA intelligence, financial forecasting, SWOT generation, and a conversational financial advisor
-Core model weights and training infrastructure proprietary pending commercial launch
-
-`PyTorch` `FinBERT` `LegalBERT` `RAG` `Gradio` `PDF Export`
-
----
-
-### 🚀 [ScaleSmart AI](https://github.com/Ribhav19/scalesmart-ai)(Proprietary · Launching soon)
-> Holistic AI risk scoring framework for startups and investors
-
-Designed a holistic startup risk scoring platform integrating FinBERT, LegalBERT, LSTM, and a reinforcement learning optimisation layer across financial, legal, sectoral, and investor intelligence dimensions
-Implemented explainable AI (SHAP/LIME) for transparent risk decisions; built scalable cloud-native microservices for real-time scoring
-Research presented at ICRATM 2026 international conference
-
-`Transformers` `RL` `LSTM` `SHAP` `LIME` `Cloud-native` `Gradio`
-
----
-
-### 🤖 [Cognitive Foundation Model](https://github.com/Ribhav19/cognitive-foundation-model)(Proprietary · Launching soon)
-> 6B-parameter financial language model trained from scratch
-
-Architected a 6B-parameter foundation language model trained entirely from scratch without pre-trained base models, using a custom cognitive training framework for reasoning and adaptive intelligence
-Designed distributed training workflows, inference optimisation strategies, and scalable deployment architecture
-Core model weights and training infrastructure proprietary pending commercial launch
-
-`HuggingFace` `RAG` `Vector Databases` `GPU Inference` `Multi-agent AI`
-
----
-
-### 📈 [financial-intelligence-platform](https://github.com/Ribhav19/financial-intelligence-platform)(Proprietary · Launching soon)
-> AI-Powered Quantitative Trading & Market Intelligence System(FinTorr)
-
-Developed AI-driven market intelligence platform integrating fundamental, technical, and sentiment analysis with reinforcement learning trading logic and paper trading simulation
-Built interactive React dashboard with real-time data processing, buy/sell signal generation, and portfolio intelligence systems
-
-### Stack
-`TensorFlow` • `PyTorch` • `RL` • `CNN-BiLSTM` • `Transformers`
+![Explainable AI](https://img.shields.io/badge/Explainable_AI-1a1a2e?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-1a1a2e?style=flat-square)
+![LLM Systems](https://img.shields.io/badge/LLM_Systems-1a1a2e?style=flat-square)
 
 ---
 
 ## Experience
 
-**Machine Learning Engineer Intern** — *Bluebase AI* `Jun 2025 – Mar 2026`
-- Designed and deployed scalable ML pipelines for real-world production applications
+**Machine Learning Engineer Intern** — *Bluebase AI (Mumbai)* `May 2025 – Feb 2026`
+- Designed and deployed scalable ML pipelines across production environments
 - Built end-to-end data workflows: preprocessing, feature engineering, training, and evaluation
-- Worked on containerized, cloud-native production infrastructure
-- Collaborated cross-functionally to integrate AI solutions into business workflows
+- Engineered production-grade infrastructure using Docker and cloud platforms
+- Collaborated cross-functionally to integrate AI solutions into core business workflows
 
-**Data Science & Generative AI Intern** — *Aperture Technologies* `Jan 2025 – May 2025`
-- Developed data-driven solutions using ML and statistical modeling
-- Worked with LLMs and generative AI for real-world applications
-- Built automated data pipelines for scalable analytical insights
+**Data Science & Generative AI Intern** — *Aperture Technologies (Pune)* `Dec 2024 – Apr 2025`
+- Developed data-driven solutions using ML, statistical modeling, and LLMs
+- Built automated data pipelines and analysis workflows for scalable insights
 
 ---
 
@@ -133,8 +119,9 @@ Built interactive React dashboard with real-time data processing, buy/sell signa
 | 📄 | Research paper presented at **ICTIS 2026**, Thailand |
 | 📄 | Research paper accepted — **Microsoft CMT 2026** |
 | 📄 | Research paper presented at **HLNWEIS ARET 2026** |
+| 📄 | Research paper presented at **ICRATM 2026** |
 | 🏆 | Winner — **Barclays Hackathon** |
-| 🏆 | Winner — multiple AI/ML and Data Science hackathons |
+| 🏆 | Winner — multiple national AI/ML and Data Science hackathons |
 | 🎓 | B.E. Information Technology, PICT Pune — **9.8 / 10 GPA** |
 
 ---
@@ -142,26 +129,25 @@ Built interactive React dashboard with real-time data processing, buy/sell signa
 ## Certifications
 
 - AI & Machine Learning Specialization (Advanced)
-- UAS Drone Workshop Certification 2025
 - Deep Learning & NLP Specialization — Transformers, Sequence Models
-- Data Science & Analytics Certification
 - Cloud Computing Certification — AWS / GCP / Azure
+- Data Science & Analytics Certification
 
 ---
 
-## Current Focus
-
 ```
-Financial Intelligence Systems    RAG + LLM Architectures
-Multi-Agent AI                    Quantitative AI
-Reinforcement Learning            Production ML Infrastructure
+Current Focus
+─────────────────────────────────────────────────────
+Proprietary AI Ventures    Financial Intelligence AI
+LLM Architecture           RAG + Multi-Agent Systems
+Reinforcement Learning     Production ML Infrastructure
 ```
 
 ---
 
 <div align="center">
 
-*Open to full-time ML Engineer, AI Researcher, and Data Science roles*
+*Open to ML Engineer, AI Researcher, and AI/ML roles — building in stealth, shipping soon*
 
 [![Email](https://img.shields.io/badge/Get_in_touch-ribhavsoni19@gmail.com-000000?style=for-the-badge)](mailto:ribhavsoni19@gmail.com)
 
