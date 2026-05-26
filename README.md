@@ -67,62 +67,44 @@ Currently finishing a B.E. in Information Technology at **Pune Institute of Comp
 
 ## Featured Projects
 
-### 🧠 [FinSight AI](https://github.com/Ribhav19/financial-intelligence-platform)
+### 🧠 [FinSight AI](https://github.com/Ribhav19/financial-intelligence-platform)(Proprietary · Launching soon)
 > AI-powered financial intelligence platform for balance sheet and risk analysis
 
-Built on **FinBERT**, **LegalBERT**, and a **RAG architecture**, FinVision AI goes beyond basic financial dashboards. It performs EBITDA & ratio intelligence, multi-dimensional risk scoring, SWOT analysis, legal compliance checks, and delivers contextual insights through a conversational financial advisor — all from raw financial documents.
+Built an enterprise-grade financial intelligence platform combining FinBERT, LegalBERT, and RAG for balance sheet analysis, risk scoring, legal compliance, and AI-generated strategic reports
+Designed multi-layer architecture integrating EBITDA intelligence, financial forecasting, SWOT generation, and a conversational financial advisor
+Core model weights and training infrastructure proprietary pending commercial launch
 
 `PyTorch` `FinBERT` `LegalBERT` `RAG` `Gradio` `PDF Export`
 
 ---
 
-### 🚀 [ScaleSmart AI](https://github.com/Ribhav19/scalesmart-ai)
+### 🚀 [ScaleSmart AI](https://github.com/Ribhav19/scalesmart-ai)(Proprietary · Launching soon)
 > Holistic AI risk scoring framework for startups and investors
 
-Unified system integrating **FinBERT**, **LegalBERT**, **LSTM**, and a **reinforcement learning optimization layer** for real-time startup risk assessment. Implements **SHAP/LIME** for explainability and runs on a scalable cloud-native microservices architecture. Features investor intelligence, competitive benchmarking, and AI-generated founder risk profiles.
+Designed a holistic startup risk scoring platform integrating FinBERT, LegalBERT, LSTM, and a reinforcement learning optimisation layer across financial, legal, sectoral, and investor intelligence dimensions
+Implemented explainable AI (SHAP/LIME) for transparent risk decisions; built scalable cloud-native microservices for real-time scoring
+Research presented at ICRATM 2026 international conference
 
 `Transformers` `RL` `LSTM` `SHAP` `LIME` `Cloud-native` `Gradio`
 
 ---
 
-### 🤖 [Cognitive Foundation Model](https://github.com/Ribhav19/cognitive-foundation-model)
+### 🤖 [Cognitive Foundation Model](https://github.com/Ribhav19/cognitive-foundation-model)(Proprietary · Launching soon)
 > 6B-parameter financial language model trained from scratch
 
-A large-scale financial AI architecture trained **entirely from scratch** — no pre-trained base, no fine-tuning. Integrates financial NLP, legal intelligence, forecasting, risk modeling, RAG pipelines, and multi-agent advisory workflows. Designed for enterprise-grade financial reasoning across structured and unstructured data.
+Architected a 6B-parameter foundation language model trained entirely from scratch without pre-trained base models, using a custom cognitive training framework for reasoning and adaptive intelligence
+Designed distributed training workflows, inference optimisation strategies, and scalable deployment architecture
+Core model weights and training infrastructure proprietary pending commercial launch
 
 `HuggingFace` `RAG` `Vector Databases` `GPU Inference` `Multi-agent AI`
 
 ---
 
-### 📈 [financial-intelligence-platform](https://github.com/Ribhav19/financial-intelligence-platform)
-> AI-Powered Quantitative Trading & Market Intelligence System
+### 📈 [financial-intelligence-platform](https://github.com/Ribhav19/financial-intelligence-platform)(Proprietary · Launching soon)
+> AI-Powered Quantitative Trading & Market Intelligence System(FinTorr)
 
-Advanced financial AI ecosystem integrating:
-
-- Fundamental Analysis
-- Technical Analysis
-- Sentiment Intelligence
-- Reinforcement Learning
-- Deep Learning Forecasting
-- Quantitative Trading Signals
-
-### Core Features
-- Market Prediction Engine
-- Buy/Sell Signal Intelligence
-- Paper Trading Simulation
-- Portfolio Analytics
-- Risk-adjusted Forecasting
-- Financial Sentiment Analysis
-- AI-powered Trading Dashboard
-- Real-time Market Intelligence
-- Multi-factor Risk Scoring
-
-### AI Systems
-- CNN-BiLSTM Prediction Engine
-- Reinforcement Learning Optimization
-- Sentiment Intelligence Pipelines
-- Forecasting Models
-- Financial Time-series Analysis
+Developed AI-driven market intelligence platform integrating fundamental, technical, and sentiment analysis with reinforcement learning trading logic and paper trading simulation
+Built interactive React dashboard with real-time data processing, buy/sell signal generation, and portfolio intelligence systems
 
 ### Stack
 `TensorFlow` • `PyTorch` • `RL` • `CNN-BiLSTM` • `Transformers`
