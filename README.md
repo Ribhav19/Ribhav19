@@ -63,7 +63,7 @@ Currently finishing a B.E. in Information Technology at **Pune Institute of Comp
 
 ## Featured Projects
 
-### 🧠 [FinVision AI](https://github.com/Ribhav19/financial-intelligence-platform)
+### 🧠 [FinSight AI](https://github.com/Ribhav19/financial-intelligence-platform)
 > AI-powered financial intelligence platform for balance sheet and risk analysis
 
 Built on **FinBERT**, **LegalBERT**, and a **RAG architecture**, FinVision AI goes beyond basic financial dashboards. It performs EBITDA & ratio intelligence, multi-dimensional risk scoring, SWOT analysis, legal compliance checks, and delivers contextual insights through a conversational financial advisor — all from raw financial documents.
@@ -90,12 +90,38 @@ A large-scale financial AI architecture trained **entirely from scratch** — no
 
 ---
 
-### 📈 [FinSight AI](https://github.com/Ribhav19/FinSight-AI)
-> Conversational financial analysis and stock intelligence system
+### 📈 [FinTorr](https://github.com/Ribhav19/financial-intelligence-platform)
+> AI-Powered Quantitative Trading & Market Intelligence System
 
-End-to-end ML system combining **CNN-BiLSTM** deep learning with **reinforcement learning** trading logic. Covers technical, fundamental, and sentiment analysis with real-time predictions, a React interactive dashboard, and paper trading simulation.
+Advanced financial AI ecosystem integrating:
 
-`CNN-BiLSTM` `RL` `TensorFlow` `PyTorch` `React` `Sentiment Analysis`
+- Fundamental Analysis
+- Technical Analysis
+- Sentiment Intelligence
+- Reinforcement Learning
+- Deep Learning Forecasting
+- Quantitative Trading Signals
+
+### Core Features
+- Market Prediction Engine
+- Buy/Sell Signal Intelligence
+- Paper Trading Simulation
+- Portfolio Analytics
+- Risk-adjusted Forecasting
+- Financial Sentiment Analysis
+- AI-powered Trading Dashboard
+- Real-time Market Intelligence
+- Multi-factor Risk Scoring
+
+### AI Systems
+- CNN-BiLSTM Prediction Engine
+- Reinforcement Learning Optimization
+- Sentiment Intelligence Pipelines
+- Forecasting Models
+- Financial Time-series Analysis
+
+### Stack
+`TensorFlow` • `PyTorch` • `RL` • `CNN-BiLSTM` • `Transformers`
 
 ---
 
