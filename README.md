@@ -37,7 +37,7 @@ Alongside my engineering career, I'm the **Founder** of multiple stealth AI star
 
 ### [FinVision AI](https://github.com/Ribhav19/FinSight-AI) — Founder & Lead AI Engineer
 > Enterprise financial intelligence platform — balance sheet analysis, risk scoring, legal compliance, and AI-generated strategic reports
-> Proprietary AI venture · Launching soon
+> — Proprietary AI venture · Launching soon
 
 `FinBERT` `LegalBERT` `RAG` `PyTorch` `FastAPI` `Gradio`
 
@@ -45,7 +45,7 @@ Alongside my engineering career, I'm the **Founder** of multiple stealth AI star
 
 ### [ScaleSmart AI](https://github.com/Ribhav19/scalesmart-ai) — Founder & Lead AI Engineer
 > Holistic startup risk scoring platform for founders and VCs — financial, legal, sectoral, and investor intelligence with explainable AI decisions
-> Proprietary AI venture · Launching soon
+> — Proprietary AI venture · Launching soon
 
 `FinBERT` `LegalBERT` `LSTM` `RL` `SHAP` `LIME` `Cloud-native`
 
@@ -55,7 +55,7 @@ Alongside my engineering career, I'm the **Founder** of multiple stealth AI star
 
 ### [FinTorr](https://github.com/Ribhav19/financial-intelligence-platform) — Founder & Lead AI Engineer
 > AI-driven market intelligence platform — fundamental, technical, and sentiment analysis with RL trading logic and paper trading simulation
-> FinTorr — Proprietary AI venture · Launching soon
+> — FinTorr — Proprietary AI venture · Launching soon
 
 `PyTorch` `TensorFlow` `RL` `CNN-BiLSTM` `React` `Node.js`
 
@@ -63,7 +63,7 @@ Alongside my engineering career, I'm the **Founder** of multiple stealth AI star
 
 ### [Cognitive Foundation Model — 6B](https://github.com/Ribhav19/cognitive-foundation-model) — Founder & Lead Researcher
 > 6B-parameter foundation LLM trained entirely from scratch — no pre-trained base, no fine-tuning — using a proprietary cognitive training framework
-> Proprietary AI venture · Launching soon
+> — Proprietary AI venture · Launching soon
 
 `PyTorch` `HuggingFace` `Distributed Training` `GPU Inference` `RAG`
 
